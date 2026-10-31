@@ -1,0 +1,11 @@
+{
+    "101": {
+        "name": "akash",
+        "department": "bca",
+        "marks": {
+            "Python": 56,
+            "Maths": 56,
+            "DBMS": 56
+        }
+    }
+}
